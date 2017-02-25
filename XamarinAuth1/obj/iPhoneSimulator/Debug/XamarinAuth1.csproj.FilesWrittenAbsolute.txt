@@ -1,0 +1,16 @@
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/optimized/
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/XamarinAuth1.exe.mdb
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/XamarinAuth1.exe
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/XamarinAuth1.exe
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/obj/iPhoneSimulator/Debug/XamarinAuth1.exe.mdb
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll

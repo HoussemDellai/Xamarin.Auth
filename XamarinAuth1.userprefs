@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="XamarinAuth1/ViewController.cs" Line="38" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinAuth1" expanded="True">
+            <Node name="XamarinAuth1" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/ViewController.cs" line="36" column="1" />
+      <Breakpoint file="/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/ViewController.cs" line="37" column="40" />
+      <Breakpoint file="/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/ViewController.cs" line="35" column="1" />
+      <Breakpoint file="/Users/houssem/Projects/XamarinAuth1/XamarinAuth1/ViewController.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinAuthSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBD4DA4E-1823-4162-A794-F38B59838FE8" />
+</Properties>
