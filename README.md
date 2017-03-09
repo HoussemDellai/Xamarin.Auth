@@ -24,3 +24,11 @@ The following videos shows how to develop a Xamarin.iOS app to login to:
 </a>
 
 4) Google : this won't work with web-view as Google is considering that as a threat to user's passwords.
+
+This video shows you how to use the plugin/component in Xamarin.Android:
+
+<a href="https://www.youtube.com/watch?v=QeoX1k7-1GE&index=7&list=PLpbcUe4chE79kfUAO_cSHZknJizvXodGQ">
+<img src="https://github.com/HoussemDellai/Xamarin.Auth/blob/master/items/xamari.auth.android.png?raw=true" width="60%"/>
+</a>
+
+
