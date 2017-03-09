@@ -1,28 +1,15 @@
 ﻿<Properties StartupConfiguration="{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAuth1/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAuthSample.iOS/TwitterUser.cs">
     <Files>
-      <File FileName="XamarinAuth1/ViewController.cs" Line="84" Column="17" />
-      <File FileName="XamarinAuth1/TwitterUser.cs" Line="14" Column="2" />
-      <File FileName="XamarinAuth1/Main.cs" Line="3" Column="22" />
-      <File FileName="XamarinAuth1/AppDelegate.cs" Line="4" Column="22" />
-      <File FileName="XamarinAuth1/ViewController.designer.cs" Line="12" Column="2" />
+      <File FileName="XamarinAuthSample.Android/MainActivity.cs" Line="9" Column="3" />
+      <File FileName="XamarinAuthSample.iOS/TwitterUser.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="XamarinAuthSample" expanded="True">
-            <Node name="XamarinAuthSample" expanded="True">
-              <Node name="ViewController.cs" expanded="True" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.XamarinAuthSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBD4DA4E-1823-4162-A794-F38B59838FE8" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinAuthSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBD4DA4E-1823-4162-A794-F38B59838FE8" />
 </Properties>

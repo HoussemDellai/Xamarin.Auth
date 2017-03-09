@@ -1,7 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAuthSample", "XamarinAuth1\XamarinAuthSample.csproj", "{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAuthSample.iOS", "XamarinAuthSample.iOS\XamarinAuthSample.iOS.csproj", "{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAuthSample.Android", "XamarinAuthSample.Android\XamarinAuthSample.Android.csproj", "{27B79681-3600-4A58-BBB0-F07BA1492817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +21,13 @@ Global
 		{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{7162A7A1-E43F-4094-B05D-5DCE21E9A5B0}.Debug|iPhone.Build.0 = Debug|iPhone
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Release|iPhone.Build.0 = Release|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{27B79681-3600-4A58-BBB0-F07BA1492817}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
